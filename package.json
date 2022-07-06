@@ -1,0 +1,22 @@
+{
+  "name": "expressjs1stprogram",
+  "version": "1.0.0",
+  "description": "this is my 1st express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keertijanm/Expressjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keertijanm/Expressjs/issues"
+  },
+  "homepage": "https://github.com/Keertijanm/Expressjs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
